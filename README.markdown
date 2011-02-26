@@ -1,6 +1,7 @@
 # GetBeans Plugin (for gedit)
 
-That is my first gedit plugin
+That is my first gedit plugin.
+
 It adds some useful editing features from NetBeans to gedit.
 
 ## Functions
@@ -32,7 +33,7 @@ It adds some useful editing features from NetBeans to gedit.
         * Shortcut: <control> + <shift> + c
 
 
-* If there aren't any selected lines, the selected line will be the line where the cursor are in
+If there aren't any selected lines, the selected line will be the line where the cursor are in
 
 ---------
 
