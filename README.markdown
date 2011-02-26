@@ -35,7 +35,23 @@ It adds some useful editing features from NetBeans to gedit.
 
 If there aren't any selected lines, the selected line will be the line where the cursor are in
 
----------
+## Installation
+
+The GetBeans folder and the getbeans.gedit-plugin should be on your gedit plugins folder
+
+Normally gedit plugins folder is "~/.gnome2/gedit/plugins"
+
+Clone the repository or download the files and folder
+
+Place them at you plugins folder
+
+Open gedit. 
+
+Go to Edit > Preferences > Plugins
+
+Check GetBeans and press close
+
+## Credits
 
 Plugin created by João Felipe Nicolaci Pimentel <joaofelipenp@gmail.com>
 
