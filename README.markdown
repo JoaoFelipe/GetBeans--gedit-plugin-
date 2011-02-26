@@ -41,15 +41,15 @@ The GetBeans folder and the getbeans.gedit-plugin should be on your gedit plugin
 
 Normally gedit plugins folder is "~/.gnome2/gedit/plugins"
 
-Clone the repository or download the files and folder
+1. Clone the repository or download the files and folder
 
-Place them at you plugins folder
+1. Place them at you plugins folder
 
-Open gedit. 
+1. Open gedit. 
 
-Go to Edit > Preferences > Plugins
+1. Go to Edit > Preferences > Plugins
 
-Check GetBeans and press close
+1. Check GetBeans and press close
 
 ## Credits
 
