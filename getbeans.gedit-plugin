@@ -1,0 +1,8 @@
+[Gedit Plugin]
+Loader=python
+Module=GetBeans
+IAge=2
+Name=GetBeans
+Description=This plugin gives gedit some of NetBeans editing capabilities by providing various functions to delete, duplicate, move and comment lines.
+Author=João Felipe Nicolaci Pimentel <joaofelipenp@gmail.com>
+Copyright=Copyright @ 2011 João Felipe Nicolaci Pimentel
